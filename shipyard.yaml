@@ -15,3 +15,4 @@ spec:
               properties:
                 teststrategy: "performance"
             - name: "evaluation"
+            - name: "release"
